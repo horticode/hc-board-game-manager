@@ -1,0 +1,1 @@
+# hc-board-game-manager
